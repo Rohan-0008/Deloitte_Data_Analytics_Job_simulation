@@ -1,39 +1,42 @@
-Deloitte Data Analytics Job Simulation (Forage)
+# 📊 Deloitte Data Analytics Job Simulation (Forage)
 
-This repository contains my work from the Deloitte Data Analytics Job Simulation on Forage, where I solved real-world analytics and forensic data problems using Tableau and Excel.
+This repository contains my work from the **Deloitte Data Analytics Job Simulation** completed on Forage, where I performed real-world data analysis and forensic tasks similar to those handled by Deloitte analysts.
 
-Work Completed
+## Tools Used
+- Tableau
+- Microsoft Excel
 
-Task 1 – Telemetry Data Analysis (Tableau)
+## Task 1: Telemetry Data Analysis
+- Analyzed machine telemetry data using Tableau
+- Created a calculated field to measure machine downtime
+- Built bar charts for:
+  - Down Time per Factory
+  - Down Time per Device Type
+- Developed an interactive dashboard with factory-level filtering
+- Identified the factory with the highest downtime using visual analysis
 
-Analyzed machine telemetry data from Daikibo factories.
+## Task 2: Forensic Technology – Pay Equality Analysis
+- Analyzed employee compensation data using Excel
+- Classified equality scores into:
+  - Fair
+  - Unfair
+  - Highly Discriminative
+- Created a new classification column based on defined score ranges
+- Supported investigation into potential gender pay inequality across roles and locations
 
-Created a calculated field to measure machine downtime.
+## Key Learnings
+- Practical exposure to real-world business data
+- Hands-on experience with Tableau dashboards
+- Data classification and rule-based analysis in Excel
+- Understanding how analytics supports business and forensic decisions
 
-Built bar charts for Down Time per Factory and Down Time per Device Type.
+## Files
+- Tableau workbook for telemetry analysis
+- Excel file with equality score classification
+- Dashboard screenshots
 
-Designed an interactive dashboard with factory-level filtering.
+## Outcome
+Gained hands-on experience in data analytics and forensic investigation tasks aligned with real Deloitte workflows.
 
-Identified the factory with the highest downtime.
-
-Task 2 – Forensic Technology (Excel)
-
-Analyzed employee compensation data for gender pay equality.
-
-Classified equality scores into Fair, Unfair, and Highly Discriminative categories.
-
-Applied logical conditions to create an Equality Class column.
-
-Tools & Skills
-
-Tableau (Calculated Fields, Dashboards, Filters)
-
-Microsoft Excel (Data Classification, Logical Functions)
-
-Data Analysis & Visualization
-
-Business Insight Generation
-
-Outcome
-
-The project demonstrates my ability to analyze operational and workforce data, create meaningful visualizations, and derive actionable insights in a consulting-style environment.
+## Author
+Sambaru Rohan
